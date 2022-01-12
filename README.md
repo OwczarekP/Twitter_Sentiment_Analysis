@@ -1,4 +1,4 @@
-# Heart_disease_UCI
+# Twitter Sentiment Analysis
 Sentiment Analysis for Twitter comments from kaggle.
 
 ## Data source
